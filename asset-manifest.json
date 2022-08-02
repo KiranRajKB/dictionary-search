@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.f966cbfc.css",
-    "main.js": "/static/js/main.abcea00e.js",
-    "static/media/wordsList.txt": "/static/media/wordsList.06953a79badbe1a027a0.txt",
-    "index.html": "/index.html",
-    "main.f966cbfc.css.map": "/static/css/main.f966cbfc.css.map",
-    "main.abcea00e.js.map": "/static/js/main.abcea00e.js.map"
+    "main.css": "/dictionary-search/static/css/main.f966cbfc.css",
+    "main.js": "/dictionary-search/static/js/main.b890afbe.js",
+    "static/media/wordsList.txt": "/dictionary-search/static/media/wordsList.06953a79badbe1a027a0.txt",
+    "index.html": "/dictionary-search/index.html",
+    "main.f966cbfc.css.map": "/dictionary-search/static/css/main.f966cbfc.css.map",
+    "main.b890afbe.js.map": "/dictionary-search/static/js/main.b890afbe.js.map"
   },
   "entrypoints": [
     "static/css/main.f966cbfc.css",
-    "static/js/main.abcea00e.js"
+    "static/js/main.b890afbe.js"
   ]
 }
