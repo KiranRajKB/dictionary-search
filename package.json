@@ -2,7 +2,7 @@
   "name": "dictionary-search",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://KiranRajKB.github.io",
+  "homepage": "https://KiranRajKB.github.io/dictionary-search",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
